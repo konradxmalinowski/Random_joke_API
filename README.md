@@ -1,8 +1,6 @@
 # Random Joke API
 
-A modern and interactive web application for fetching and displaying random jokes. Built with TypeScript and React, this project showcases clean architecture, context-based state management, and modular components for a delightful user experience.
-
-<br>
+[**Figma**](https://www.figma.com/design/SlVTkskgkKwJQhX6nsnmeZ/Joke-API?node-id=1-340&t=4OQmF9q7t8pRa6JE-1) <br>
 
 ## Features
 
